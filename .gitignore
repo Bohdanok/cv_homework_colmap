@@ -1,0 +1,5 @@
+*.zip
+*.MOV
+colmap_output*
+frames
+sam2
